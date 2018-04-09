@@ -1,2 +1,5 @@
 "use strict";
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJnaXRodWIvd2Vidmlldy5qcyIsInNvdXJjZXNDb250ZW50IjpbXX0=
+
+module.exports = Franz => {
+  document.querySelector("._1EbB").style.display = "none";
+};
